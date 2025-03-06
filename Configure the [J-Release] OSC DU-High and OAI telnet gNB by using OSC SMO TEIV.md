@@ -1,9 +1,3 @@
----
-title: 'Configure the [J-Release] OSC DU-High and OAI telnet gNB by using OSC SMO TEIV'
-tags: [SMO]
-
----
-
 # <center>Configure the [J-Release] OSC DU-High and OAI telnet gNB by using OSC SMO TEIV</center>
 
 <center>SMO O1 Ves + O1 Netconf + [J-Release] OSC DU-High + OAI telnet gNB + OSC SMO TEIV</center>

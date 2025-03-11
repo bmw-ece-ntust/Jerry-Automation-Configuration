@@ -1,9 +1,3 @@
----
-title: '[J Release] SMO Topology & Inventory (TEIV)'
-tags: [SMO]
-
----
-
 # <center>[J Release] SMO Topology & Inventory (TEIV)</center>
 
 <center>Introduction of J Release SMO</center>

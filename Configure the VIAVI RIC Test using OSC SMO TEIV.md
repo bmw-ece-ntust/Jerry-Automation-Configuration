@@ -1,9 +1,3 @@
----
-title: Configure the VIAVI RIC Test using OSC SMO TEIV
-tags: [SMO]
-
----
-
 # <center>Configure the VIAVI RIC Test using OSC SMO TEIV</center>
 
 <center>SMO O1 Ves/Netconf + TEIV + VIAVI Rictest</center>
